@@ -72,7 +72,7 @@ const Hero: React.FC = () => {
           initial={{ opacity: 0, x: 30 }}
           animate={{ opacity: 1, x: 0 }}
           transition={{ duration: 0.8, delay: 0.2 }}
-          className="relative hidden lg:block h-[650px] w-full max-w-lg mx-auto"
+          className="relative hidden lg:block h-full w-full max-w-lg mx-auto"
         >
           {/* Main Image Container - The border is now directly on this container */}
           <div className="relative w-full h-full overflow-visible bg-transparent">
