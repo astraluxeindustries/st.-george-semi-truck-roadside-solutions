@@ -85,7 +85,7 @@ const Hero: React.FC = () => {
              <img 
                src="/images/tmp3oc9c13w.webp" 
                alt="Professional Mechanic" 
-               className="w-full h-full object-cover object-top lg:translate-y-22"
+               className="w-full h-full object-cover object-top lg:translate-y-32"
              />
              
              {/* Floating Status Badge */}
