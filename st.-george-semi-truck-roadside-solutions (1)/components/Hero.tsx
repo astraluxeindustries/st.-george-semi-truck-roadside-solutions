@@ -75,7 +75,7 @@ const Hero: React.FC = () => {
           className="relative hidden lg:block h-[650px] w-full max-w-lg mx-auto"
         >
           {/* Main Image Container - The border is now directly on this container */}
-          <div className="relative w-full h-full rounded-2xl overflow-hidden shadow-2xl border-2 border-white/20 bg-brand-darkBlue/30">
+          <div className="relative w-full h-full overflow-visible bg-transparent">
              
              {/* 
                 IMAGE REPLACEMENT INSTRUCTIONS:
