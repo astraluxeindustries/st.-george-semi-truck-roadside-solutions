@@ -93,7 +93,7 @@ const Hero: React.FC = () => {
                initial={{ x: -20, opacity: 0 }}
                animate={{ x: 0, opacity: 1 }}
                transition={{ delay: 1, duration: 0.5 }}
-               className="absolute top-[60%] -translate-y-1/2 left-0 bg-white/95 backdrop-blur-sm p-6 rounded-3xl shadow-2xl flex items-center gap-5 border-y border-r border-gray-100 max-w-sm transform scale-60 transition-all hover:scale-95 z-20"
+               className="absolute top-[60%] -translate-y-1/2 left-0 bg-white/95 backdrop-blur-sm p-6 rounded-3xl shadow-2xl flex items-center gap-5 border-y border-r border-gray-100 max-w-sm transform scale-50 transition-all hover:scale-95 z-20"
              >
                 <div className="relative flex items-center justify-center w-20 h-20 bg-green-100 rounded-full flex-shrink-0">
                   <div className="w-5 h-5 bg-green-500 rounded-full animate-pulse shadow-[0_0_15px_rgba(34,197,94,0.6)]"></div>
