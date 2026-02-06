@@ -4,7 +4,7 @@ import { Phone, CalendarCheck } from 'lucide-react';
 
 const Hero: React.FC = () => {
   return (
-    <section className="relative min-h-[80vh] flex items-center pt-32 pb-0 overflow-hidden bg-brand-blue">
+    <section className="relative min-h-[80vh] flex items-center pt-20 pb-0 overflow-hidden bg-brand-blue">
       
       {/* Background Pattern/Overlay */}
       <div className="absolute inset-0 z-0 opacity-10">
