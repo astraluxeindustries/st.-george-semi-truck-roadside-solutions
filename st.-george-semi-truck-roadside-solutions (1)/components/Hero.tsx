@@ -100,7 +100,7 @@ const Hero: React.FC = () => {
                 </div>
                 <div>
                   <p className="text-sm text-gray-500 font-bold uppercase tracking-wider mb-2">Status</p>
-                  <p className="text-brand-blue font-extrabold text-2xl leading-none">Techs Available Now</p>
+                  <p className="text-brand-blue font-extrabold text-xl leading-none">Techs Available Now</p>
                 </div>
              </motion.div>
           </div>
