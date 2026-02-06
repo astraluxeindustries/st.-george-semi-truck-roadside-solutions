@@ -83,7 +83,7 @@ const Hero: React.FC = () => {
                 Using 'object-cover' ensures the image fills the entire border area without empty spaces.
              */}
              <img 
-               src="https://images.unsplash.com/photo-1621905476059-5f33604063bd?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80" 
+               src="/images/png-transparent-ford-car-mechanics-graphy-ford-tshirt-blue-car-thumbnail.png" 
                alt="Professional Mechanic" 
                className="w-full h-full object-cover object-top"
              />
