@@ -18,7 +18,7 @@ const services = [
   {
     title: "Roadside Repair",
     description: "Full mechanical repairs including air lines, brakes, and cooling systems.",
-    image: "https://images.unsplash.com/photo-1632823469860-200d81b4f447?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    image: "/images/roadsiderepair.png",
     icon: <Wrench className="w-6 h-6" />
   }
 ];
